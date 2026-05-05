@@ -1,6 +1,7 @@
 <div align="center">
 
-```
+<img width="1155" height="897" alt="Screenshot 2026-05-06 025653" src="https://github.com/user-attachments/assets/5a480a7a-7f15-430f-a092-719163e9247f" />
+
 ███████╗███╗   ███╗ █████╗ ██╗██╗      ██╗   ██╗ █████╗ ██╗     ██╗██████╗  █████╗ ████████╗ ██████╗ ██████╗ 
 ██╔════╝████╗ ████║██╔══██╗██║██║      ██║   ██║██╔══██╗██║     ██║██╔══██╗██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗
 █████╗  ██╔████╔██║███████║██║██║      ██║   ██║███████║██║     ██║██║  ██║███████║   ██║   ██║   ██║██████╔╝
@@ -247,13 +248,13 @@ MIT License — free to use, modify, and distribute.
 
 <div align="center">
 
-**Built with ❤️ using [Claude AI](https://anthropic.com) by ADARSH685-BOT**
+*
 
 *If this helped you, please ⭐ star the repo!*
 
 </div>
 - **Icons**: Lucide Icons
-- **Fonts**: Google Fonts (Inter & Outfit)
+
 
 ## 📄 License
 MIT License - Created with ❤️ by ADARSH
